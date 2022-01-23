@@ -3,8 +3,9 @@
 ## a voting platform website ##
 
 ## Description, methods used ##
-MySQL for database making
-Node.js 
+** MySQL to create a database from the MySQL terminal **
+** use SQL to create and populate a table of data **
+** run SQL queries to create, read, update, and delete data from a table **
 
 ## Screencap of working app ##
 
