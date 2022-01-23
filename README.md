@@ -1,6 +1,7 @@
 # U Develop It #
 
-## a voting platform website ##
+## Description ##
+a voting platform website with a database to store information about candidates and their profiles.
 
 ## Description, methods used ##
 ** MySQL to create a database from the MySQL terminal **
