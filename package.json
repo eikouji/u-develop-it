@@ -1,0 +1,28 @@
+{
+  "name": "u-develop-it",
+  "version": "1.0.0",
+  "description": "a voting platform website with a database to store information about candidates and their profiles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eikouji/u-develop-it.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eikouji/u-develop-it/issues"
+  },
+  "homepage": "https://github.com/eikouji/u-develop-it#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
