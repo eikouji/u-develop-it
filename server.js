@@ -215,3 +215,5 @@ db.connect(err => {
     console.log(`Server running on port ${PORT}`);
   });
 });
+
+/* these databases don't show up when using source db/schema.sql or source db/seeds.sql. No database selected error */
